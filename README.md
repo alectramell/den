@@ -1,19 +1,19 @@
 # DEN v1.0
-## Python 3 - Encryption Modules
-## by Tramell Software Development (r)
+###### **Python Encryption Library**
+###### **Tramell Software Development (r)**
 
-###### Environment..
+## Environment..
 
-Python 3
+```Python 3```
 
-###### Index..
+## Index..
 
 * hex.py
 * md5.py
 * sha512.py
 * shift.py
 
-###### Usage..
+## Usage..
 
 ```
 >>> # hex.py
